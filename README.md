@@ -48,12 +48,14 @@
 
 ## 🚀 What I Can Help With
 - ⚙️ Cloud architecture design (AWS, Azure, GCP)
-- 🚀 CI/CD pipeline automation (GitHub Actions, Jenkins, ArgoCD)
+- 🚀 End-to-end CI/CD pipeline automation (GitHub Actions, Jenkins, ArgoCD)
 - 📦 Kubernetes deployments & microservices architecture
 - 🏗️ Infrastructure as Code (Terraform, Ansible)
-- 📊 Observability (Prometheus, Grafana, OpenTelemetry)
+- 📊 End-to-end observability (metrics, logs, traces) using Prometheus, Grafana, OpenTelemetry
+- 🔍 Distributed tracing, performance analysis & Root Cause Analysis (RCA)
+- 🤖 Deployment and monitoring of AI/ML & ASR-based applications
 - 💰 Cloud cost optimization & performance tuning
-- 🔐 DevSecOps & secure deployments
+- 🔐 DevSecOps & secure deployments 
 
 ---
 
