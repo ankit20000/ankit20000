@@ -8,7 +8,7 @@
 - 💼 9+ years of experience in DevOps & SRE
 - ☁️ Expert in building scalable cloud infrastructure
 - ⚙️ Passionate about automation, CI/CD & microservices
-- 📊 Focused on observability, reliability & performance
+- 📊 Focused on observability, reliability , performance & RCA
 - 💰 Proven track record in cloud cost optimization (up to 50%)
 
 ---
