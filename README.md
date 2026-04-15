@@ -62,17 +62,9 @@
 ## 📈 Achievements
 - 🚀 Reduced cloud cost by **50%**
 - ⚡ Improved deployment efficiency by **40%**
+- 📊 End-to-End Tracing of the application and full viewing inside the API 
 - 📉 Reduced system downtime by **30%**
 
----
-
-## 📊 GitHub Stats
-
-![Ankit's GitHub stats](https://github-readme-stats.vercel.app/api?username=ankit20000&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ankit20000&layout=compact&theme=tokyonight)
-
----
 
 ## 🔥 GitHub Streak
 
