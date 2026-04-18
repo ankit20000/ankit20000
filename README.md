@@ -8,8 +8,9 @@
 - 💼 9+ years of experience in DevOps & SRE
 - ☁️ Expert in building scalable cloud infrastructure
 - ⚙️ Passionate about automation, CI/CD & microservices
-- 📊 Focused on observability, reliability , performance & RCA
+- 📊 Focused on observability, reliability, performance & RCA
 - 💰 Proven track record in cloud cost optimization (up to 50%)
+- ⚙️ Kubernetes Version Update and maintaing the production application deployment 
 
 ---
 
@@ -50,7 +51,7 @@
 - ⚙️ Cloud architecture design (AWS, Azure, GCP)
 - 🚀 End-to-end CI/CD pipeline automation (GitHub Actions, Jenkins, ArgoCD)
 - 📦 Kubernetes deployments & microservices architecture
-- 🏗️ Infrastructure as Code (Terraform, Ansible)
+- 🏗️ Infrastructure as Code (Kubernetes, Terraform, Ansible)
 - 📊 End-to-end observability (metrics, logs, traces) using Prometheus, Grafana, OpenTelemetry
 - 🔍 Distributed tracing, performance analysis & Root Cause Analysis (RCA)
 - 🤖 Deployment and monitoring of AI/ML & ASR-based applications
