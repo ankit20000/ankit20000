@@ -5,7 +5,7 @@
 ---
 
 ## 🧠 About Me
-- 💼 9+ years of experience in DevOps & SRE
+- 💼 10+ years of experience in DevOps & SRE
 - ☁️ Expert in building scalable cloud infrastructure
 - ⚙️ Passionate about automation, CI/CD & microservices
 - 📊 Focused on observability, reliability, performance & RCA
